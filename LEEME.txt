@@ -1,0 +1,7 @@
+LA MELOSA - web
+
+1. Descomprime la carpeta.
+2. Abre index.html con doble clic (Safari, Chrome o Firefox).
+3. Necesita conexion a internet (fuentes y librerias 3D).
+
+Baja con el scroll para ver la escena 3D.
